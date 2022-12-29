@@ -1,0 +1,17 @@
+package org.Parker1.Shannu.Numerical;
+
+import java.util.Scanner;
+
+public class KaprekarNumber {
+public static boolean isKaprekar(ling num) {
+	
+}
+public static int validateAndPrint(long a,long b) {
+	
+}
+public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	long a=sc.nextLong();
+	long b=sc.nextLong();
+}
+}

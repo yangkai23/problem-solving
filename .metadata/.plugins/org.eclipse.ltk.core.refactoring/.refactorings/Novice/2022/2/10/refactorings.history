@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;Anagram.java, ArmstrongNumber.java, ArraySort.java, BigAmongTwo.java, BigEleMat.java, Biggest.java, CharacterStreamBuffer.java, data.txt&apos; to &apos;src&apos;" description="Move 8 resources to &apos;src&apos;" destination="src" element1="src/Novicecode/Anagram.java" element2="src/Novicecode/ArmstrongNumber.java" element3="src/Novicecode/ArraySort.java" element4="src/Novicecode/BigAmongTwo.java" element5="src/Novicecode/BigEleMat.java" element6="src/Novicecode/Biggest.java" element7="src/Novicecode/CharacterStreamBuffer.java" element8="src/Novicecode/data.txt" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="8" stamp="1645949752919" updateReferences="true"/>
+</session>

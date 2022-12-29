@@ -1,0 +1,13 @@
+package Basicbasic;
+
+public class IntitaializationDemo {
+int a=2;
+int b=3;
+public int add() {
+	return a+b;
+}
+public static void main(String[] args) {
+	IntitaializationDemo it=new IntitaializationDemo();
+	it.add();
+}
+}

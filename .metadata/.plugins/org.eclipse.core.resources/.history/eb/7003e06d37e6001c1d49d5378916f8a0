@@ -1,0 +1,11 @@
+package Basicbasic;
+
+public class IntitaializationDemo {
+int a,b;
+
+public IntitaializationDemo(int a, int b) {
+	this.a = a;
+	this.b = b;
+}
+	
+}

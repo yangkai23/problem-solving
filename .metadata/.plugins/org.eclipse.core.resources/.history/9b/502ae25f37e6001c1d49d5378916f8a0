@@ -1,0 +1,6 @@
+package Basicbasic;
+
+public class IntitaializationDemo {
+int a,b;
+	
+}

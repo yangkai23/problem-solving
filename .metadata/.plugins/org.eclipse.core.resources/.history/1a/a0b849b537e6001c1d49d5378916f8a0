@@ -1,0 +1,16 @@
+package Basicbasic;
+
+public class IntitaializationDemo {
+int a,b;
+{
+this.a=2;	
+}
+
+public IntitaializationDemo(int a, int b) {
+	this.a = a;
+	this.b = b;
+}
+	public static void main(String[] args) {
+		IntitaializationDemo it=new IntitaializationDemo(2, 3);
+	}
+}

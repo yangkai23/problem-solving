@@ -1,0 +1,14 @@
+package Basicbasic;
+
+public class IntitaializationDemo {
+	static IntitaializationDemo i=null;
+  String name="anirudh";
+public static void main(String[] args) {
+	IntitaializationDemo it=new IntitaializationDemo();
+	System.out.println(it.name);
+}
+
+
+
+
+}

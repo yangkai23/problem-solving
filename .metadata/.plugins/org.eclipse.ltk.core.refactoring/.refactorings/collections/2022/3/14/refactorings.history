@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;HelperMethod.java&apos; to &apos;AniApp&apos;" description="Move &apos;HelperMethod.java&apos; to &apos;AniApp&apos;" destination="src/org/Parker/AniApp" element1="src/org/Parker/AniApp/collectionsprct/HelperMethod.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1648363567229" updateReferences="true"/>
+</session>
